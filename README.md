@@ -15,3 +15,5 @@ To learn more about Ridge Regression:
   https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html
 
 Refer to the documentation of the dataset to to understand the dataset.
+
+To see dataset in kaggle https://www.kaggle.com/code/jibinmadayil/weather-prediction

@@ -16,4 +16,4 @@ To learn more about Ridge Regression:
 
 Refer to the documentation of the dataset to to understand the dataset.
 
-To see dataset in kaggle https://www.kaggle.com/code/jibinmadayil/weather-prediction
+To see dataset in kaggle: https://www.kaggle.com/code/jibinmadayil/weather-prediction
